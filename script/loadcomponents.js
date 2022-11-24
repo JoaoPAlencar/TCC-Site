@@ -8,7 +8,7 @@
             <ul>
                 <li><a href = "index.html" class="index">Inicio</a></li>
                 <li><a href = "news.html" class="news">Noticias</a></li>
-                <li><a href = "https://store.steampowered.com/?l=portuguese" class="buy">Comprar</a></li>
+                <li><a target="_blank" href = "https://store.steampowered.com/?l=portuguese" class="buy">Comprar</a></li>
                 <li><a href = "about.html" class="about">Sobre</a></li>
                 <li><a href = "credits.html" class="credits">Créditos</a></li>
             </ul>

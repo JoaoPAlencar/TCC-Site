@@ -1,7 +1,9 @@
 (()=>{
+    //Adquire o elemento do Footer e Header a ser modificado
     const menu = document.getElementById("menu");
     const footer = document.querySelector("#footer");
 
+    //Altera o HTML interno do Header
     menu.innerHTML = `
         <img src = "ressource/Test-logo.png"/>
         <nav>
@@ -15,6 +17,7 @@
         </nav>
     `;
 
+    //Altera o HTML interno do Footer
     footer.innerHTML = `
         <div class ="footer">
             <div class="footer_element">
